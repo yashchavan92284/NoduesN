@@ -1,0 +1,32 @@
+name: no_dues1
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: any
+  sqflite: ^2.3.2
+  path: ^1.9.0
+  intl: ^0.19.0
+  flutter_slidable: ^3.1.0
+  shared_preferences: ^2.0.0
+  firebase_core: ^2.28.0
+  firebase_auth: ^4.19.0  # for authentication
+  cloud_firestore: ^4.16.0  # for Firestore database
+  firebase_storage: ^11.7.0  # for Cloud Storage
+  firebase_messaging: ^14.8.0  # for Cloud Messaging
+  # Add more Firebase dependencies as needed
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

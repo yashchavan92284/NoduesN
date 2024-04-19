@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292582937116",
+    "project_id": "duesnoted",
+    "storage_bucket": "duesnoted.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292582937116:android:dd2f16d9af6be0d96b45d9",
+        "android_client_info": {
+          "package_name": "com.example.no_dues1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Gj7ftzgNYlJYP12UAn0xIGdp0C6T83c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
